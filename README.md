@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharmila2003
 - 👀 I’m interested in Web App Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning c
 
 <!---
 Sharmila2003/Sharmila2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
